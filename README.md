@@ -10,3 +10,5 @@ Leider gibt es Seitens Tensorflow noch keine Möglichkeit um mirroredstrategy au
 Bei Anmerkungen, Problemen oder Kritik gerne an:
 https://de.linkedin.com/in/mario-von-bassen-3797831ba
 
+Der Code darf gerne frei für eigene Zwecke kopiert und eingesetzt werden!
+
