@@ -6,8 +6,8 @@ import numpy as np
 import keras
 from datetime import datetime
 from packaging import version
-pip install matplotlib
 from matplotlib import pyplot as plt
+
 if len(device_lib.list_local_devices()) > 1:
     print("GPU is activated")
 
