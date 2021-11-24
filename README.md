@@ -3,7 +3,7 @@ Textgenerator verwenden
 !git clone https://github.com/Mvb-DL/LSTM-TEXTGEN
 
 
-Der Code wird fortlaufend erweitert werden und angepasst. Darüberhinaus ist es zu empfehlen das Modell mittels Cuda zu trainieren.
+Der Code wird fortlaufend erweitert und angepasst. Darüberhinaus ist es zu empfehlen das Modell mittels Cuda zu trainieren.
 Auch die Documentation wird über die Folgezeit ausführlicher gestaltet, hier ist vorerst nur der Code (siehe character_level_model) hinterlegt.
 
 Das Modell wird demnächst auch als word-level Modell verfügbar sein.
